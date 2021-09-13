@@ -1,0 +1,733 @@
+.body {
+    font-family: "Montserrat";
+    color: #2E3A59;
+}
+
+
+/* header */
+
+.form-slt {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    border-style: none;
+}
+
+.dropdown {
+    margin-left: 10px;
+}
+
+
+/* intro__bottom */
+
+.intro__bottom__img {
+    height: 250px;
+    margin: 80px 180px 100px 180px;
+}
+
+.intro__bottom__a {
+    text-decoration: none;
+    color: #989898;
+}
+
+.intro__bottom__text {
+    margin-top: 70px;
+    width: 445px;
+    font-size: 36px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+.intro__bottom__textdva {
+    width: 445px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.intro__bottom {
+    margin: 50px 110px 0 120px; 
+    display: flex;
+    justify-content: space-between;
+}
+
+.intro__bottom__icon-google {
+    width: 20px;
+    margin-left: 10px;
+}
+
+.intro__bottom__img-bl {
+    background-color: #64697A;
+    border-radius: 8px;
+    width: 600px;
+    height: 457px;
+}
+
+
+/* album-blogs */
+
+.album-blogs {
+    background-color: #EDEDED;
+    border-radius: 15px;
+    margin: 100px 110px 0 120px; 
+}
+
+.blogs {
+    display: flex;
+}
+
+.blogs__h2 {
+    width: 160px;
+    height: 44px;
+    margin-left: 30px;
+    margin-top: 36px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    color: #2E3A59;
+}
+
+.blogs__nav-link {
+    text-decoration: none;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2E3A59;
+}
+
+.blogs__nav-item {
+    margin: 30px 35px 0 730px !important;
+    padding-top: 17px;
+    width: 178px;
+    height: 55px;
+    background: #F6F6F6;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.cards__card-img {
+    border-radius: 8px;
+    width: 332px;
+    height: 281.31px;
+    left: calc(50% - 332px/2);
+    background-image: url('https://kartinkin.com/uploads/posts/2021-07/1626265658_28-kartinkin-com-p-fon-molochnogo-tsveta-krasivo-30.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cards__card {
+    margin: 30px 0 30px 30px;
+    width: 332;
+    height: 420;
+}
+
+.cards__card-img-svg {
+    margin: 17px 17px 0 295px;
+}
+
+.cards__card-text {
+    width: 332px;
+    height: 121px;
+    background: #64697A;
+    border-radius: 8px;
+    margin-top: 17px;
+    padding: 12px 17px 9px 17px;
+}
+
+.cards__card-text-categories{
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.card-column {
+    display: flex;
+}
+
+.cards__card-text-definition {
+    width: 298px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.cards__card-text-countdown {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.cards__card-text-people-saw {
+    margin-left: 175px;
+    margin-top: 3px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.cards__card-text-post {
+    display: flex;
+}
+
+.cards__card-text-people-svg {
+    margin-top: 2px;
+    margin-left: 10px;
+}
+
+
+/* questions */
+
+.questions {
+    margin: 100px 110px 0 120px;
+}
+
+.questions__head {
+    display: flex;
+    background-image: url('https://wallpaperaccess.com/full/806443.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    height: 420px;
+}
+
+.questions__h2 {
+    margin-left: 30px;
+    margin-top: 36px;
+    font-family:"Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+.questions__nav-link {
+    text-decoration: none;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2E3A59;
+}
+
+.questions__nav-item {
+    margin: 30px 35px 0 626px !important;
+    padding-top: 17px;
+    width: 178px;
+    height: 55px;
+    background: #F6F6F6;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.questions__column {
+    display: flex;
+}
+
+.questions__card {
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 80px;
+    width: 350px;
+    height: 189px;
+    border-radius: 8px;
+    background-image: url('https://kartinkin.com/uploads/posts/2021-07/1626265658_28-kartinkin-com-p-fon-molochnogo-tsveta-krasivo-30.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.questions__card-link {
+    font-family: "Montserrat";
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2E3A59;
+}
+
+.questions__card-center {
+    margin: 50px 40px 0 40px;
+    text-align: center;
+    padding-top: 80px;
+    width: 350px;
+    height: 189px;
+    border-radius: 8px;
+    background-image: url('https://kartinkin.com/uploads/posts/2021-07/1626265658_28-kartinkin-com-p-fon-molochnogo-tsveta-krasivo-30.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* meetings*/
+
+.meetings {
+    background-color: #EDEDED;
+    border-radius: 15px;
+    margin: 100px 110px 0 120px;
+}
+
+.meetings__head {
+    display: flex;
+}
+
+.meetings__h2 {
+    margin-left: 30px;
+    margin-top: 36px;
+    font-family:"Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    color: #2E3A59;
+}
+
+.meetings__nav-link {
+    text-decoration: none;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2E3A59;
+}
+
+.meetings__nav-item {
+    margin: 30px 35px 0 626px !important;
+    padding-top: 17px;
+    width: 178px;
+    height: 55px;
+    background: #F6F6F6;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.meetings__nav-link1 {
+    text-decoration: none;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2E3A59;
+}
+
+.meetings__nav-item1 {
+    position: absolute;
+    margin: 40px 27px 0 830px;
+    padding-top: 10px;
+    width: 147px;
+    height: 42px;
+    background: #F6F6F6;
+    border-radius: 8px;
+    text-align: center;
+    z-index: 1;
+}
+
+.meeting__carousel-item {
+    display: flex;
+}
+
+.meetings__h5 {
+    margin: 40px 0 0 95px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #2E3A59;
+}
+
+.meetings__main-video {
+    width: 905px;
+    border-radius: 8px;
+    margin: 15px 95px 70px 95px;
+}
+
+.meetings__video-center {
+    margin: 35px 25px 50px 25px;
+    width: 270px;
+    height: 164px;
+    border-radius: 8px;
+    background-image: url('https://kartinkin.com/uploads/posts/2021-07/1626265658_28-kartinkin-com-p-fon-molochnogo-tsveta-krasivo-30.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.meetings__video-end {
+    margin: 35px 120px 50px 0;
+    width: 270px;
+    height: 164px;
+    border-radius: 8px;
+    background-image: url('https://kartinkin.com/uploads/posts/2021-07/1626265658_28-kartinkin-com-p-fon-molochnogo-tsveta-krasivo-30.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.meetings__video-start {
+    margin: 35px 0 50px 125px;
+    width: 270px;
+    height: 164px;
+    border-radius: 8px;
+    background-image: url('https://kartinkin.com/uploads/posts/2021-07/1626265658_28-kartinkin-com-p-fon-molochnogo-tsveta-krasivo-30.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.meetings__video-center1 {
+    margin: 35px 25px 50px 25px;
+    width: 270px;
+    height: 164px;
+    border-radius: 8px;
+    background-image: url('https://wallpaperaccess.com/full/806443.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.meetings__video-end1 {
+    margin: 35px 120px 50px 0;
+    width: 270px;
+    height: 164px;
+    border-radius: 8px;
+    background-image: url('https://wallpaperaccess.com/full/806443.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.meetings__video-start1 {
+    margin: 35px 0 50px 125px;
+    width: 270px;
+    height: 164px;
+    border-radius: 8px;
+    background-image: url('https://wallpaperaccess.com/full/806443.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.meetings__video-p {
+    padding: 92px 0 0 13px;
+    text-decoration: none;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2E3A59;
+}
+
+
+/* about-us */
+
+.about-us {
+    margin: 100px 110px 0 120px;
+}
+
+.about-us__a {
+    text-decoration: none;
+    color: #989898;
+}
+
+.about-us__text {
+    width: 445px;
+    font-size: 36px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+.about-us__textdva {
+    width: 445px;
+    padding-top: 60px;
+    padding-bottom: 87px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.about-us__h2 {
+    margin-left: 30px;
+    margin-top: 36px;
+    font-family:"Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    color: #2E3A59;
+}
+
+.about-us__img-blog {
+    display: flex;
+}
+
+.about-us__all-text {
+    margin: 150px 0 0 650px;
+}
+
+.about-us__img-blog__img-1{
+    position: absolute;
+    z-index: 1;
+    margin: 139px 0 0 0;
+    border-radius: 8px;
+    width: 175.3px;
+    height: 130.34px;
+}
+
+.about-us__img-blog__img-2{
+    position: absolute;
+    z-index: 1;
+    margin: 74px 0 0 310px;
+    border-radius: 8px;
+    width: 165.3px;
+    height: 157.89px;
+}
+
+.about-us__img-blog__img-3{
+    position: absolute;
+    z-index: 0;
+    margin: 209px 0 0 75px;
+    border-radius: 8px;
+    width: 361px;
+    height: 230px;
+}
+
+.about-us__img-blog__img-4{
+    position: absolute;
+    z-index: 1;
+    margin: 406px 0 0 36px;
+    border-radius: 8px;
+    width: 165.3px;
+    height: 157.89px;
+}
+
+.about-us__img-blog__img-5{
+    position: absolute;
+    z-index: 1;
+    margin: 433px 0 0 340px;
+    border-radius: 8px;
+    width: 165.3px;
+    height: 157.89px;
+}
+
+.nav-item  {
+    margin-top: 10px ;
+}
+
+.footer__nav-link-a{
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF !important;
+}
+
+.footer__col-h5 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.footer {
+    margin-top: 100px;
+    margin-bottom: -100px;
+    width: 100%;
+    background-color: #64697A;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.footer__form-input {
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+.footer__btn{
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    background: #B7D8CB;
+    border-radius: 8px;
+    padding: 10px;
+    border: none;
+}
+
+
+/* video */
+
+.video {
+    background-color: #EDEDED;
+    border-radius: 15px;
+    margin: 150px 110px 0 120px;
+}
+
+.video__head {
+    display: flex;
+}
+
+.video__h2 {
+    margin-left: 30px;
+    margin-top: 36px;
+    font-family:"Montserrat";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    color: #2E3A59;
+}
+
+.video__nav-link {
+    text-decoration: none;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2E3A59;
+}
+
+.video__nav-item {
+    margin: 30px 35px 0 726px !important;
+    padding-top: 17px;
+    width: 178px;
+    height: 55px;
+    background: #F6F6F6;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.video__nav-link1 {
+    text-decoration: none;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2E3A59;
+}
+
+.video__nav-item1 {
+    position: absolute;
+    margin: 75px 27px 0 830px;
+    padding-top: 10px;
+    width: 147px;
+    height: 42px;
+    background: #F6F6F6;
+    border-radius: 8px;
+    text-align: center;
+    z-index: 1;
+}
+
+.video__carousel-item {
+    display: flex;
+}
+
+.video__main-video {
+    width: 905px;
+    border-radius: 8px;
+    margin: 50px 95px 70px 95px;
+}
+
+.video__video-center {
+    margin: 35px 25px 50px 25px;
+    width: 270px;
+    height: 164px;
+    border-radius: 8px;
+    background-image: url('https://kartinkin.com/uploads/posts/2021-07/1626265658_28-kartinkin-com-p-fon-molochnogo-tsveta-krasivo-30.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.video__video-end {
+    margin: 35px 120px 50px 0;
+    width: 270px;
+    height: 164px;
+    border-radius: 8px;
+    background-image: url('https://kartinkin.com/uploads/posts/2021-07/1626265658_28-kartinkin-com-p-fon-molochnogo-tsveta-krasivo-30.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.video__video-start {
+    margin: 35px 0 50px 125px;
+    width: 270px;
+    height: 164px;
+    border-radius: 8px;
+    background-image: url('https://kartinkin.com/uploads/posts/2021-07/1626265658_28-kartinkin-com-p-fon-molochnogo-tsveta-krasivo-30.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.video__video-center1 {
+    margin: 35px 25px 50px 25px;
+    width: 270px;
+    height: 164px;
+    border-radius: 8px;
+    background-image: url('https://wallpaperaccess.com/full/806443.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.video__video-end1 {
+    margin: 35px 120px 50px 0;
+    width: 270px;
+    height: 164px;
+    border-radius: 8px;
+    background-image: url('https://wallpaperaccess.com/full/806443.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.video__video-start1 {
+    margin: 35px 0 50px 125px;
+    width: 270px;
+    height: 164px;
+    border-radius: 8px;
+    background-image: url('https://wallpaperaccess.com/full/806443.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.video__video-p {
+    padding: 92px 0 0 13px;
+    text-decoration: none;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2E3A59;
+}
